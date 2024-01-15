@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, world! I'm Luiz Eduardo, a programming student full of desire to learn and through constancy, evolve and adapt more and more day after day
+👋
 
 <!--
 **uEduardo2124/uEduardo2124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
