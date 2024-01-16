@@ -3,8 +3,8 @@ Hello, world! I’m Luiz Eduardo, a programming student full of desire to learn 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eduardo_martins1720)
-[![LinkedIn](https://www.linkedin.com/in/luiz-eduardo-martins-miranda-76b920278/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eduardo_martins1720) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-eduardo-martins-miranda-76b920278/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
